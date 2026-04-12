@@ -16,7 +16,7 @@ export default class BedtimeCalculator {
   }
 
   #getBedTime(wakeUpTime, sleepHours, napTime) {
-    const bedTime = ((wakeUpTime - sleepHours + 24) % 24) - napTime;
+    const bedTime = (wakeUpTime - (sleepHours - napTime) + 24) % 24;
     return bedTime;
   }
 
