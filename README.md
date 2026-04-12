@@ -25,6 +25,10 @@ npx bedtime-calculator
 
 - Node.js 18以上
 
+## 参照
+
+https://sleepeducation.org/sleep-faqs/?utm_source=chatgpt.com
+
 # 🛌 bedtime-calculator (English)
 
 This npm package calculates the optimal bedtime based on a your age and wake-up time.
@@ -49,3 +53,7 @@ npx bedtime-calculator
 ## Requirements
 
 - Node.js 18 or higher
+
+## Reference
+
+https://sleepeducation.org/sleep-faqs/?utm_source=chatgpt.com
