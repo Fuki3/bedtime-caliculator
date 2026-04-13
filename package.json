@@ -7,7 +7,7 @@
     "japanese"
   ],
   "bin": {
-    "bedtime-calculator": "./index.js"
+    "bedtime-calculator": "index.js"
   },
   "license": "MIT",
   "author": "M.Kita",
