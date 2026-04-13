@@ -13,6 +13,12 @@
   "author": "M.Kita",
   "type": "module",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "cli.js",
+    "bedtime_calculator.js",
+    "README.md"
+  ],
   "scripts": {
     "lint": "prettier --check . && eslint .",
     "fix": "prettier --write . && eslint --fix ."
