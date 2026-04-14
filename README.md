@@ -5,7 +5,7 @@
 ## インストール
 
 ```
-npm install -g bedtime-calculator
+npm install bedtime-calculator
 ```
 
 ## 使い方
@@ -36,7 +36,7 @@ This npm package calculates the optimal bedtime based on a your age and wake-up 
 ## Installation
 
 ```
-npm install -g bedtime-calculator
+npm install bedtime-calculator
 ```
 
 ## Usage
