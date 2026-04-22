@@ -1,0 +1,36 @@
+{
+  "name": "bedtime-calculator",
+  "version": "1.0.2",
+  "description": "年齢と起床時間から就寝時間の目安を表示します。",
+  "keywords": [
+    "sleep",
+    "japanese"
+  ],
+  "bin": {
+    "bedtime-calculator": "index.js"
+  },
+  "license": "MIT",
+  "author": "M.Kita",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "cli.js",
+    "bedtime_calculator.js",
+    "README.md"
+  ],
+  "scripts": {
+    "lint": "prettier --check . && eslint .",
+    "fix": "prettier --write . && eslint --fix ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1"
+  },
+  "dependencies": {
+    "enquirer": "^2.4.1"
+  }
+}
