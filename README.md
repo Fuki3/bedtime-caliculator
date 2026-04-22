@@ -2,12 +2,6 @@
 
 年齢と起床時間から最適な就寝時間を計算します。
 
-## インストール
-
-```
-npm install bedtime-calculator
-```
-
 ## 使い方
 
 ```
@@ -25,19 +19,13 @@ npx bedtime-calculator
 
 - Node.js 18以上
 
-## 参照
+## 参考
 
-https://sleepeducation.org/sleep-faqs/?utm_source=chatgpt.com
+https://sleepeducation.org/sleep-faqs/
 
 # 🛌 bedtime-calculator (English)
 
 This npm package calculates the optimal bedtime based on a your age and wake-up time.
-
-## Installation
-
-```
-npm install bedtime-calculator
-```
 
 ## Usage
 
@@ -56,4 +44,4 @@ npx bedtime-calculator
 
 ## Reference
 
-https://sleepeducation.org/sleep-faqs/?utm_source=chatgpt.com
+https://sleepeducation.org/sleep-faqs/
